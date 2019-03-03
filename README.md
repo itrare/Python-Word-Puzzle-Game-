@@ -14,3 +14,11 @@ FOR Mysql Version --
 
 RUN the boggle.sql file given in the repository.
 THEN RUN the  full_game.py
+
+
+
+
+
+
+
+
