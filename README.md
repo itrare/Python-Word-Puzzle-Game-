@@ -16,7 +16,14 @@ RUN the boggle.sql file given in the repository.
 THEN RUN the  full_game.py
 
 
+![alt text](https://github.com/itrare/Python-Word-Puzzle-Game-/blob/master/Screenshot%20(230).png?raw=true)
+![alt text](https://github.com/itrare/Python-Word-Puzzle-Game-/blob/master/Screenshot%20(232).png?raw=true)
 
+![alt text](https://github.com/itrare/Python-Word-Puzzle-Game-/blob/master/Screenshot%20(233).png?raw=true)
+
+![alt text](https://github.com/itrare/Python-Word-Puzzle-Game-/blob/master/Screenshot%20(236).png?raw=true)
+![alt text](https://github.com/itrare/Python-Word-Puzzle-Game-/blob/master/Screenshot%20(237).png?raw=true)
+![alt text](https://github.com/itrare/Python-Word-Puzzle-Game-/blob/master/Screenshot%20(238).png?raw=true)
 
 
 
