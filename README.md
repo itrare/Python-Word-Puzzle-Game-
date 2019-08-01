@@ -5,7 +5,7 @@ The repository contains the python word puzzle game files run and execute to pla
 Install sqlite3 in python
 
 ### There is already installed sqlite3 module in python 2.5 and above 
-Steps for Execetion of the files.
+Steps for Execution of the files.
 For sqlite version --
 1.Run the file named full_game.py
 2.Make sure you have installed the sqlite module.
